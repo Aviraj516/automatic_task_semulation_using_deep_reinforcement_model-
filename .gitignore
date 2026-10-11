@@ -16,3 +16,17 @@ env/
 __pycache__/
 **/__pycache__/
 *.py[cod]
+
+# Ignore Python environments and generated files
+.venv/
+**/.venv/
+venv/
+**/venv/
+env/
+**/env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+**/.DS_Store
+.env
