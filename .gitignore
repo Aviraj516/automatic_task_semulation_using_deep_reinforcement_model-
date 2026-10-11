@@ -5,3 +5,14 @@ __pycache__/
 *.py[cod]
 .env
 .DS_Store
+
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+env/
+**/env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
